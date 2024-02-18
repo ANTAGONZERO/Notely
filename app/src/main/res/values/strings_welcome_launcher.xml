@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notely</string>
+    <string name="welcome_message">
+    Effortlessly organize your thoughts, tasks, and ideas with Notely – your go-to note-taking app.
+    </string>
+    <string name="get_started">Get Started</string>
+
+</resources>

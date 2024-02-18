@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/note_card"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    app:contentPadding="20dp"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@color/off_white"
+    app:cardElevation="0dp"
+    android:clickable="true"
+    android:focusable="true">
+
+    <LinearLayout
+        android:id="@+id/note"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/note_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#191919"
+            android:fontFamily="@font/poppins_bold"
+            android:text="This is the notes title"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/note_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:layout_marginTop="15dp"
+            android:textColor="#2C2C2C"
+            android:text="This is the notes content "
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/note_DMY"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#4d4d4d"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/poppins_medium"
+            android:text="15 Jan, 2024"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+
+
+</com.google.android.material.card.MaterialCardView>

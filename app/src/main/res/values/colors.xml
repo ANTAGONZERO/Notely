@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="off_black">#010203</color>
+    <color name="transparent">#00000000</color>
+    <color name="off_white">#DCDCDC</color>
+    <color name="white1">#F5F5F5</color>
+    <color name="notes_back">#BFE2EB</color>
+    <color name="hint_color">#333333</color>
+    <color name="color1">#E3FDFD</color>
+    <color name="color2">#FFC7C7</color>
+    <color name="color3">#DBE2EF</color>
+    <color name="color4">#FFF5E4</color>
+    <color name="color5">#FCE38A</color>
+    <color name="color6">#95E1D3</color>
+    <color name="color7">#F4EEFF</color>
+    <color name="color8">#B1B2FF</color>
+    <color name="color9">#EEF1FF</color>
+    <color name="color10">#BF9270</color>
+    <color name="color11">#F67280</color>
+    <color name="color12">#FF9292</color>
+    <color name="color13">#A4BE7B</color>
+    <color name="color14">#85586F</color>
+    <color name="color15">#FFD3B4</color>
+    <color name="color16">#DEBA9D</color>
+    <color name="color17">#FFD8A9</color>
+    <color name="color18">#FF9A00</color>
+    <color name="color19">#BC6FF1</color>
+    <color name="color20">#A873BF</color>
+
+    <color name="card_color">#0088FF</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arapey</item>
+        <item>@font/bubblegum_sans</item>
+        <item>@font/poppins</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/poppins_medium</item>
+        <item>@font/rokkitt</item>
+        <item>@font/rokkitt_bold</item>
+        <item>@font/rokkitt_medium</item>
+        <item>@font/rubik</item>
+    </array>
+</resources>

@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Notely" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Notely" parent="Base.Theme.Notely" />
+
+    <style name="Login.Notely" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorControlNormal">@color/black</item>
+        <!-- Make the action bar translucent -->
+        <item name="background">@drawable/action_bar_background</item>
+    </style>
+
+    <style name="Theme.Notes" parent="Theme.AppCompat.DayNight" />
+
+
+
+
+
+    <!-- Custom style for your buttons -->
+
+</resources>

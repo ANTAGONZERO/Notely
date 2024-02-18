@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome</string>
+    <string name="Login">Login to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button_txt">LOGIN</string>
+    <string name="forget_password">Forgot Password ?</string>
+    <string name="sign_in_with_google">Login with Google</string>
+    <string name="new_user_sign_in">New user ? Sign in</string>
+    <string name="log_in">LOG IN</string>
+</resources>

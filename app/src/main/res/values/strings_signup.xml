@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_user">New User</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="e_mail">E-mail</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="already_a_user_login">Already a user? Login</string>
+    <string name="sign_In">SIGN IN</string>
+</resources>
